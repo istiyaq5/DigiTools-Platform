@@ -6,7 +6,7 @@ DigiTools is a modern, sleek, and fully responsive SaaS platform where users can
 
 ## 🌐 Live Preview
 
-[> Coming Soon...](https://digi-tools-platform-pink.vercel.app/)
+[> please click here...](https://digi-tools-platform-pink.vercel.app/)
 
 
 
