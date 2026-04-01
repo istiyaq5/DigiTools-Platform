@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality articles, blogs, and marketing copy in seconds with our advanced AI writing engine.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["Unlimited generations", "20+ writing templates", "SEO optimization", "Plagiarism checker"],
+    "icon": "✍️"
+  },
+  {
+    "id": 2,
+    "name": "Design Templates Pack",
+    "description": "500+ premium design templates for social media, presentations, and professional marketing materials.",
+    "price": 49,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["500+ templates", "Drag & drop editor", "Export in any format", "Brand kit support"],
+    "icon": "🎨"
+  },
+  {
+    "id": 3,
+    "name": "Premium Stock Assets",
+    "description": "Access millions of royalty-free images, videos, icons, and illustrations for your projects.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["10M+ assets", "4K resolution", "Commercial license", "Daily new uploads"],
+    "icon": "🖼️"
+  },
+  {
+    "id": 4,
+    "name": "Automation Toolkit",
+    "description": "Automate repetitive tasks and streamline your digital workflow with powerful no-code automation tools.",
+    "price": 79,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["200+ automations", "API integrations", "Custom workflows", "Zapier compatible"],
+    "icon": "⚙️"
+  },
+  {
+    "id": 5,
+    "name": "Resume Builder Pro",
+    "description": "Create stunning, ATS-friendly resumes and cover letters that get you noticed and land interviews faster.",
+    "price": 15,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["50+ templates", "ATS optimization", "Export to PDF", "Cover letter generator"],
+    "icon": "📄"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Content Kit",
+    "description": "Schedule, create, and analyze your social content across all platforms from one unified dashboard.",
+    "price": 39,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["All platforms", "Unlimited scheduling", "Analytics dashboard", "AI caption writer"],
+    "icon": "📱"
+  }
+]
