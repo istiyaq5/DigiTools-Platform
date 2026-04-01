@@ -6,21 +6,10 @@ DigiTools is a modern, sleek, and fully responsive SaaS platform where users can
 
 ## 🌐 Live Preview
 
-> Coming Soon...
+[> Coming Soon...](https://digi-tools-platform-pink.vercel.app/)
 
----
 
-## 🖼️ Project Preview
 
-### 🏠 Home Page
-
-![Home UI](<./Home%20(1).png>)
-
-### 🛒 Cart Page
-
-![Cart UI](./Cart.png)
-
----
 
 ## ⚙️ Technologies Used
 
@@ -49,7 +38,7 @@ DigiTools is a modern, sleek, and fully responsive SaaS platform where users can
 
 - 🔐 Authentication System (Login/Signup)
 - 💳 Payment Integration (Stripe)
-- 🌙 Dark/Light Mode Toggle
+
 - 📊 Dashboard for Users
 
 ---
@@ -74,6 +63,4 @@ Frontend Developer | React Enthusiast 🚀
 
 ---
 
-## ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub and share it with others!
