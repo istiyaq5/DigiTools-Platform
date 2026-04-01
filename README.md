@@ -14,7 +14,7 @@ DigiTools is a modern, sleek, and fully responsive SaaS platform where users can
 
 ### 🏠 Home Page
 
-![Home UI](./Home%20\(1\).png)
+![Home UI](<./Home%20(1).png>)
 
 ### 🛒 Cart Page
 
@@ -24,33 +24,33 @@ DigiTools is a modern, sleek, and fully responsive SaaS platform where users can
 
 ## ⚙️ Technologies Used
 
-* ⚛️ React.js
-* 🎨 Tailwind CSS + DaisyUI
-* 💡 JavaScript (ES6+)
-* 🔔 React-Toastify
-* 📦 JSON (for product data)
+- ⚛️ React.js
+- 🎨 Tailwind CSS + DaisyUI
+- 💡 JavaScript (ES6+)
+- 🔔 React-Toastify
+- 📦 JSON (for product data)
 
 ---
 
 ## ✨ Key Features
 
-* 🛍️ **Product Showcase System**
+- 🛍️ **Product Showcase System**
   Explore premium digital tools with modern UI cards, pricing, and features.
 
-* 🛒 **Cart Management System**
+- 🛒 **Cart Management System**
   Add/remove products dynamically with real-time total calculation.
 
-* 🎯 **Responsive & Modern UI**
+- 🎯 **Responsive & Modern UI**
   Fully responsive design with gradient UI, animations, and clean layout.
 
 ---
 
 ## 💡 Future Improvements
 
-* 🔐 Authentication System (Login/Signup)
-* 💳 Payment Integration (Stripe)
-* 🌙 Dark/Light Mode Toggle
-* 📊 Dashboard for Users
+- 🔐 Authentication System (Login/Signup)
+- 💳 Payment Integration (Stripe)
+- 🌙 Dark/Light Mode Toggle
+- 📊 Dashboard for Users
 
 ---
 
