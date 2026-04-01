@@ -4,6 +4,13 @@ const FOOTER_LINKS = {
   Resources: ["Documentation", "Help Center", "Community", "Contact"],
 };
 
+const SOCIALS = [
+  { label: "Twitter", emoji: "🔗" },
+  { label: "LinkedIn", emoji: "💼" },
+  { label: "Facebook", emoji: "📘" },
+  { label: "Instagram", emoji: "📸" },
+];
+
 export default function Footer() {
   return (
     <footer className="bg-gray-900 text-gray-300 pt-16 pb-8">
@@ -16,7 +23,15 @@ export default function Footer() {
               The all-in-one digital tools platform trusted by 50,000+ creators, marketers, and businesses worldwide.
             </p>
             <div className="flex gap-3 mt-5">
-              
+              {SOCIALS.map(({ label, emoji }) => (
+                <button
+                  key={label}
+                  aria-label={label}
+                  className="w-9 h-9 rounded-lg bg-gray-800 hover:bg-purple-600 flex items-center justify-center transition-colors text-base"
+                >
+                  {emoji}
+                </button>
+              ))}
             </div>
           </div>
 

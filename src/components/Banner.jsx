@@ -2,7 +2,7 @@ import ImgPlay from "../assets/Play.png";
 import bannerPng from "../assets/banner.png";
 export default function Banner() {
   return (
-    <section className="relative bg-gradient-to-br from-white via-purple-50 to-indigo-50 overflow-hidden py-16 lg:py-24">
+    <section className="relative bg-gradient-to- from-white via-purple-50 to-indigo-50 overflow-hidden py-16 lg:py-24">
       {/* Background blobs */}
       <div className="absolute -top-20 -right-20 w-80 h-80 bg-purple-200 rounded-full opacity-30 blur-3xl pointer-events-none" />
       <div className="absolute bottom-0 left-0 w-64 h-64 bg-indigo-200 rounded-full opacity-20 blur-3xl pointer-events-none" />
