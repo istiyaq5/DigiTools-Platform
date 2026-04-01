@@ -40,7 +40,7 @@ export default function CartSection({ cartItems, onRemove, onCheckout }) {
             className="flex items-center gap-4 bg-white border border-gray-100 rounded-2xl px-5 py-4 shadow-sm hover:shadow-md transition-shadow"
           >
             {/* Icon */}
-            <div className="w-12 h-12 rounded-xl bg-purple-50 flex items-center justify-center text-2xl flex-shrink-0">
+            <div className="w-12 h-12 rounded-xl bg-purple-50 flex items-center justify-center text-2xl shrink-0">
               {item.icon}
             </div>
 
